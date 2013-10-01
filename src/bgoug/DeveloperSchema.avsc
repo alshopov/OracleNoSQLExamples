@@ -1,0 +1,10 @@
+{
+  "type": "record",
+  "namespace": "bgoug",
+  "name": "Developer",
+  "fields": [
+    { "name": "name", "type": "string", "default" : "NONE"},
+    { "name": "age", "type": "int", "default" : "NONE"},
+    { "name": "language", "type": "string", "default" : "Java"}
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "type": "record",
+  "namespace": "bgoug",
+  "name": "DbAdmin",
+  "fields": [
+    { "name": "name", "type": "string", "default" : "NONE"},
+    { "name": "age", "type": "int", "default" : "NONE"},
+    { "name": "db", "type": "string", "default" : "Oracle RDBMS"}
+  ]
+}
