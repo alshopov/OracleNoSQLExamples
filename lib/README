@@ -1,0 +1,7 @@
+Place the following jars here:
+Available with Oracle NoSQL Community edition
+avro.jar - Apache
+jackson-core-asl.jar - Apache
+jackson-mapper-asl.jar - Apache
+kvclient.jar - AGPL3
+
